@@ -3,6 +3,7 @@ public class gitTesting {
         int a = 5;
         int b = 1;
         int c = 2;
-        System.out.println(a + b + c);
+        int d = 1;
+        System.out.println(a + b + c + d);
     }
 }
